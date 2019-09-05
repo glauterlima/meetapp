@@ -1,0 +1,35 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add express
+
+PATH: 
+  C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows;C:\Windows\SYSTEM32;C:\Windows\SysWOW64;C:\ORANT\BIN;C:\ORANT\JDK\BIN;C:\ORA_PROV\bin;C:\Program Files (x86)\Oracle\jre\1.1.8\bin;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Program Files\Aladdin\eToken\PKIClient\x32;C:\Program Files\Aladdin\eToken\PKIClient\x64;C:\Users\Administrador\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk1.8.0_171\bin;C:\Program Files\Cloud Foundry;C:\Program Files\nodejs\;C:\Program Files\Aladdin\eToken\SAC\x32;C:\Program Files\Aladdin\eToken\SAC\x64;C:\Program Files (x86)\Yarn\bin\;C:\ProgramData\chocolatey\bin;C:\Users\tr301001\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\tr301001\AppData\Local\Programs\Python\Python37-32\;C:\Users\tr301001\AppData\Local\Microsoft\WindowsApps;C:\Program Files\heroku\bin;C:\Program Files\Java\jdk1.8.0_171\bin;C:\Users\tr301001\AppData\Local\Android\Sdk\platform-tools;C:\Users\tr301001\AppData\Roaming\npm;C:\Users\tr301001\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\tr301001\AppData\Local\hyper\app-3.0.2\resources\bin;C:\Users\tr301001\AppData\Local\Yarn\bin
+
+Yarn version: 
+  1.17.3
+
+Node version: 
+  10.15.3
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: self signed certificate in certificate chain
+      at TLSSocket.onConnectSecure (_tls_wrap.js:1051:34)
+      at TLSSocket.emit (events.js:189:13)
+      at TLSSocket._finishInit (_tls_wrap.js:633:8)
+
+npm manifest: 
+  {
+    "name": "meetapp",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "Glauter Santos <glauterlima@gmail.com>",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
